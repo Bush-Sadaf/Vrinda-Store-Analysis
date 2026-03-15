@@ -9,7 +9,7 @@ Includes data cleaning, pivot tables, charts and an interactive dashboard.
 - Compare sales by gender and age group
 - Identify top performing states and channels
 - Find peak sales periods
-
+![Dashboard](dashboard.png)
   📊 Key Insights
 - Women contribute ~65% of total sales
 - Maharashtra, Karnataka and Uttar Pradesh are top 3 states
